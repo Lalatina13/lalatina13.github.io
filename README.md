@@ -19,5 +19,5 @@ All content is subject to a manual human review and approval process before bein
 
 ### Legal
 
-* [Privacy Policy]([https://link-to-your-privacy-policy-gist.com](https://gist.githubusercontent.com/Lalatina13/e259eee44ca54378ab0af497d03957b3/raw/eb2a67923a4a2689b7aba2e9c65a8f787b9ba264/gistfile1.txt))
-* [Terms of Service]([https://link-to-your-terms-of-service-gist.com](https://gist.githubusercontent.com/Lalatina13/a8cb556233a606927b7f8d06e0ac015c/raw/788b44df7001ea318dc99e2867e1241d798cb33f/gistfile1.txt))
+* [Privacy Policy](https://gist.github.com/Lalatina13/e259eee44ca54378ab0af497d03957b3)
+* [Terms of Service](https://gist.github.com/Lalatina13/a8cb556233a606927b7f8d06e0ac015c)
