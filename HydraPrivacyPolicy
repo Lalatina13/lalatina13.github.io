@@ -1,0 +1,25 @@
+Privacy Policy for Hydra
+
+Effective Date: August 6, 2025
+
+This Privacy Policy describes the policies and procedures of the Hydra application ("the Service," "we," "our," or "us").
+
+**1. Information Collection and Use**
+
+The Hydra application is a server-side creative tool. It does **not** have public end-users and **does not** collect, store, or process any personally identifiable information (PII) from users, such as names, email addresses, phone numbers, physical addresses, or social media profiles. The Service does not access device-specific information like GPS location, contacts, or photos.
+
+**2. API and Service-Side Data**
+
+To function, the Service interacts with third-party Application Programming Interfaces (APIs), such as those provided by Google (for YouTube), Pexels, and ElevenLabs. During these interactions, data related to the authenticated account (such as a User ID or API token) is used ephemerally to perform authorized actions (e.g., uploading a video). This information is used solely for the execution of the Service's functions and is not stored or logged by Hydra.
+
+**3. Third-Party Services**
+
+The Service uses third-party services for content generation and publishing. These services have their own privacy policies, which govern their use of data. We are not responsible for the privacy practices of these third-party services.
+
+**4. Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+**5. Contact Us**
+
+If you have any questions about this Privacy Policy, you can contact us.
